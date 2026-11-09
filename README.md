@@ -1,103 +1,52 @@
 
-<div align="center">
-
 # Bernardo
 
-**Engenharia de Software | Quality Assurance | Software Testing**
+**Quality Assurance | Engenharia de Software**
 
-Estudante de Engenharia de Software, com foco em qualidade de software, testes e automação.
+Sou estudante de Engenharia de Software, com foco em Qualidade de Software (QA).
 
-</div>
-
----
-
-## Sobre mim
-
-Sou estudante de **Engenharia de Software**, com foco em **Quality Assurance (QA)** e desenvolvimento de software.
-
-Atualmente, estou aprimorando meus conhecimentos por meio de projetos práticos, aplicando conceitos de qualidade desde a análise de requisitos até a execução e documentação dos testes.
-
-- Estudando **Java, JUnit 5 e automação de testes**.
-- Praticando testes funcionais, unitários e de API.
-- Utilizando **Jira e Zephyr Essential** para gerenciamento de testes.
-- Desenvolvendo projetos reais para meu portfólio de QA.
+Atualmente, estou desenvolvendo projetos práticos envolvendo testes manuais, automação de testes, documentação e identificação de defeitos.
 
 ---
 
-## Tecnologias e ferramentas
+### Tecnologias e Ferramentas
 
-### Linguagens e desenvolvimento
+**Linguagens e Desenvolvimento**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql&perline=8" alt="Linguagens e tecnologias" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,php" />
 
-### Quality Assurance e testes
+**Testes e Automação**
 
-<p>
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zephyr_Essential-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API_Testing-00897B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BDD-4B32C3?style=for-the-badge" />
-</p>
+<img src="https://skillicons.dev/icons?i=selenium,postman,cypress,playwright" />
 
-### Ferramentas de desenvolvimento
+JUnit 5 • Mockito • REST Assured • Testes Manuais • Testes Automatizados
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gradle,idea,vscode,postman&perline=8" alt="Ferramentas de desenvolvimento" />
-</p>
+**Banco de Dados**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+
+**Ferramentas e Gerenciamento**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,vscode,gradle,maven,docker" />
+
+Jira • Zephyr • XMind • Scrum • Kanban • BDD
 
 ---
 
-## Projetos em destaque
+### Estatísticas
 
-### Resolva — Sistema de Chamados de TI
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true)
 
-Projeto prático de desenvolvimento e testes de uma plataforma de gerenciamento de chamados de suporte técnico.
-
-**Atividades:**
-- Análise e documentação de requisitos funcionais.
-- Definição de regras de negócio e critérios de aceitação.
-- Criação e execução de casos de teste.
-- Gerenciamento de histórias no Jira.
-- Organização dos testes com Zephyr Essential.
-- Desenvolvimento da interface utilizando HTML, CSS e JavaScript.
-
-**Tecnologias:** HTML, CSS, JavaScript, Jira e Zephyr Essential.
-
-**Status:** Em desenvolvimento.
-
-### ServeRest — Testes de API
-
-Projeto de Quality Assurance utilizando a API ServeRest para praticar testes de software.
-
-**Atividades:**
-- Análise de endpoints e respostas HTTP.
-- Estudo dos métodos e códigos de status HTTP.
-- Planejamento de cenários de teste.
-- Documentação e gerenciamento de testes no Jira.
-
-**Status:** Em desenvolvimento.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## Estatísticas do GitHub
+### Projetos em Desenvolvimento
 
-<div align="center">
+**Resolva — Sistema de Gestão de Chamados**
 
-<img width="480" src="https://github-readme-stats-fast.vercel.app/api?username=bcosta-dev&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Estatísticas do GitHub" />
+Projeto prático de desenvolvimento e Quality Assurance, envolvendo requisitos, casos de teste, execução de testes e documentação.
 
-<br>
+**ServeRest — Testes de API**
 
-<img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=bcosta-dev&theme=tokyonight&hide_border=true" alt="Contribuições no GitHub" />
-
-</div>
-
----
-
-<div align="center">
-
-**Quality Assurance | Software Engineering | Software Testing**
-
-</div>
+Projeto de QA voltado à validação de APIs REST, documentação de cenários de teste e registro de defeitos.
