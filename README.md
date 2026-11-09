@@ -1,7 +1,9 @@
 
 <div align="center">
 
-# Olá, eu sou o Bernardo!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=180&section=header&text=Bernardo&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Focado+em+Quality+Assurance;Estudando+Java+e+JUnit+5;Desenvolvendo+projetos+de+QA" alt="Apresentação animada" />
 
