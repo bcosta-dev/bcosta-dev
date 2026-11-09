@@ -7,25 +7,6 @@ Me chamo Bernardo e sou estudante de Engenharia de Software, com foco em Qualida
 
 Desenvolvo projetos práticos envolvendo documentação de requisitos, elaboração e execução de casos de teste, identificação de defeitos e automação.
 
-
-<p align="left">
-    <a href="https://github.com/bcosta-dev?tab=repositories&sort=stargazers">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/bcosta-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/bcosta-dev?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/bcosta-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -61,15 +42,14 @@ Desenvolvo projetos práticos envolvendo documentação de requisitos, elaboraç
 
 <p align="left">
     <img
-        alt="Gráfico de contribuições"
-        src="https://github-readme-activity-graph.vercel.app/graph?username=bcosta-dev&theme=tokyo-night&hide_border=true"
+        alt="Estatísticas do GitHub"
+        height="180"
+        src="https://github-readme-stats-fast.vercel.app/api?username=bcosta-dev&show_icons=true&theme=tokyonight&hide_border=true"
     />
-</p>
-
-<p align="left">
     <img
-        alt="Troféus do GitHub"
-        src="https://github-profile-trophy.vercel.app/?username=bcosta-dev&theme=tokyonight&no-frame=true&row=1&column=5"
+        alt="Linguagens mais utilizadas"
+        height="180"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bcosta-dev&layout=compact&theme=tokyonight&hide_border=true"
     />
 </p>
 
