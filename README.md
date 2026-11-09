@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou o Bernardo Costa!
+# Olá, eu sou o Bernardo!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Focado+em+Quality+Assurance;Estudando+Java+e+JUnit+5;Desenvolvendo+projetos+de+QA" alt="Apresentação animada" />
 
