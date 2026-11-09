@@ -40,10 +40,6 @@ Projeto de gestão de chamados com requisitos funcionais, regras de negócio, cr
 
 Projeto de prática de testes de API, análise de endpoints, códigos HTTP, documentação e gerenciamento de casos de teste.
 
-### Estatísticas do GitHub
-
-
-### Estatísticas do GitHub
 
 ### Estatísticas do GitHub
 
