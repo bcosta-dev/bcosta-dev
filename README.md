@@ -44,17 +44,25 @@ Projeto de prática de testes de API, análise de endpoints, códigos HTTP, docu
 
 ### Estatísticas do GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bcosta-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcosta-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bcosta-dev&theme=tokyonight&hide_border=true" />
-</p>
+### Estatísticas do GitHub
 
----
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api?username=bcosta-dev&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bcosta-dev&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+</div>
 
-<p align="center">
-  <strong>Em constante aprendizado e evolução na área de Qualidade de Software.</strong>
-</p>
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bcosta-dev&theme=tokyonight&hide_border=true"
+    alt="Sequência de contribuições"
+  />
+</div>
