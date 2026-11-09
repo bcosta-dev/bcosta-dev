@@ -47,22 +47,21 @@ Projeto de prática de testes de API, análise de endpoints, códigos HTTP, docu
 
 ### Estatísticas do GitHub
 
+### Estatísticas do GitHub
+
 <div align="center">
   <img
-    height="170"
-    src="https://github-readme-stats-fast.vercel.app/api?username=bcosta-dev&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bcosta-dev&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Linguagens mais utilizadas"
+    width="480"
+    src="https://github-readme-stats-fast.vercel.app/api?username=bcosta-dev&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"
+    alt="Estatísticas de Bernardo no GitHub"
   />
 </div>
 
 <div align="center">
   <img
+    width="480"
     src="https://github-readme-streak-stats.herokuapp.com/?user=bcosta-dev&theme=tokyonight&hide_border=true"
-    alt="Sequência de contribuições"
+    alt="Contribuições de Bernardo"
   />
 </div>
+
