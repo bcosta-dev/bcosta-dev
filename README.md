@@ -32,7 +32,6 @@ Desenvolvo projetos práticos envolvendo documentação de requisitos, elaboraç
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Mockito-30363D?style=for-the-badge" alt="Mockito"/>
   <img src="https://img.shields.io/badge/Zephyr_Essential-0052CC?style=for-the-badge" alt="Zephyr Essential"/>
-  <img src="https://img.shields.io/badge/XMind-EA4335?style=for-the-badge" alt="XMind"/>
 </p>
 
 <p align="left">
