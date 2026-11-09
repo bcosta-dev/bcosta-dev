@@ -12,23 +12,25 @@
 
 ### Sobre mim
 
-- Estudando **Quality Assurance** e desenvolvimento de software.
-- Trabalhando com **Jira e Zephyr Essential** para gerenciamento de testes.
-- Desenvolvendo projetos práticos de QA com documentação e evidências.
 
-### Tecnologias e ferramentas
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,gradle,js,html,css,git,github,idea,vscode,mysql,postman&perline=6" alt="Tecnologias" />
-</p>
+  <h1>Olá, eu sou o Bernardo Costa!</h1>
 
-<p>
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zephyr-Essential-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software_Testing-374151?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/QA-Quality_Assurance-00897B?style=for-the-badge" />
-</p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Focado+em+Quality+Assurance;Estudando+Java+e+JUnit+5;Desenvolvendo+projetos+reais+de+QA"
+    alt="Apresentação animada"
+  />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Quality_Assurance-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Testing-25A162?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java_%26_JUnit_5-6C63FF?style=for-the-badge" />
+
+</div>
+
+---
 
 ### Projetos de QA
 
