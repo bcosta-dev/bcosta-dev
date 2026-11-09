@@ -13,10 +13,8 @@
 ### Sobre mim
 
 - Estudando **Quality Assurance** e desenvolvimento de software.
-- Praticando testes unitários com **Java e JUnit 5**.
 - Trabalhando com **Jira e Zephyr Essential** para gerenciamento de testes.
 - Desenvolvendo projetos práticos de QA com documentação e evidências.
-- Aprendendo sobre testes de API e automação.
 
 ### Tecnologias e ferramentas
 
