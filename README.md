@@ -2,9 +2,9 @@
 
 **`Quality Assurance | Engenharia de Software`**
 
-Me chamo Bernardo e sou estudante de Engenharia de Software, com foco em Qualidade de Software (QA). Atualmente, estou aprofundando meus conhecimentos em testes manuais e automatizados, documentação de requisitos e gerenciamento de testes.
+Me chamo Bernardo e sou estudante de Engenharia de Software, com foco em Qualidade de Software (QA). Atualmente, estou aprofundando meus conhecimentos em testes manuais e automatizados, desenvolvimento de software e ferramentas de gerenciamento de testes.
 
-Desenvolvo projetos práticos utilizando ferramentas como Jira, Zephyr Essential, JUnit e Git.
+Desenvolvo projetos práticos envolvendo documentação de requisitos, elaboração e execução de casos de teste, identificação de defeitos e automação.
 
 ---
 
