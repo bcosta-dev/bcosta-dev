@@ -64,7 +64,7 @@ Desenvolvo projetos práticos utilizando ferramentas como Jira, Zephyr Essential
 
 ### 📁 Projetos em Desenvolvimento
 
-**[Elo Bank — Plataforma Bancária Digital](https://github.com/bcosta-dev/EloBank)**
+**Elo Bank — Plataforma Bancária Digital**
 
 Projeto de desenvolvimento e QA de uma plataforma bancária digital, com documentação de requisitos e planejamento de testes utilizando Jira e Zephyr.
 
